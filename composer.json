@@ -1,0 +1,15 @@
+{
+    "name": "kazimustafa95/crm",
+    "description": "crm page",
+    "autoload": {
+        "psr-4": {
+            "Kazimustafa95\\Crm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mustafa kazi"
+        }
+    ],
+    "require": {}
+}
